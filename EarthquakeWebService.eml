@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="21" jdk_type="JavaSDK">
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="sparkjava-2.9.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/sparkjava-2.9.3.jar!/"/>
+	</lib>
+	<lib name="json-20230618.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/json-20230618.jar!/"/>
+	</lib>
+	<lib name="sqlite-jdbc-3.36.0.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.36.0.3.jar!/"/>
+	</lib>
+</component>
