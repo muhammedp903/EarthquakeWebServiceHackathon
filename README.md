@@ -20,4 +20,4 @@ lab sessions for Advanced Programming. **DO NOT** use any other libraries on thi
 written using other libraries will not be marked. You should download the starter project, in which
 the database, libraries, and a small amount of starter code are already set-up, from Moodle.
 
-[SPECIFICATION](Hackathon Assessment Specification.pdf)
+[SPECIFICATION](HackathonAssessmentSpecification.pdf)
