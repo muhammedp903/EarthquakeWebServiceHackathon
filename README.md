@@ -1,3 +1,5 @@
+Year 2 Advanced Programming Hackathon Assignment
+
 # Introduction
 
 There are many earthquakes each year and around the world, even though not all of them cause
@@ -17,3 +19,5 @@ driver [5], the reference JSON parser [6], and Java’s built-in DOM XML parser 
 lab sessions for Advanced Programming. **DO NOT** use any other libraries on this assessment: code
 written using other libraries will not be marked. You should download the starter project, in which
 the database, libraries, and a small amount of starter code are already set-up, from Moodle.
+
+[SPECIFICATION](Hackathon Assessment Specification.pdf)
